@@ -1,0 +1,25 @@
+body{
+  text-align: center;
+}
+.logo {
+    padding-top: 109px;
+    height: 92px;
+    width: 272px;
+    display: block;
+    margin: 0 auto;
+}
+.navbar {
+    height: 40px;
+  	line-height: 30px;
+  	margin-left: 20px;
+  	margin-right: 20px;
+  	margin-top: 15px;
+  	justify-content: space-between;
+    color: #000;
+    opacity: 0.75;
+}
+.search {
+  height:34px;
+  width:503px;
+  margin:23px;
+}
